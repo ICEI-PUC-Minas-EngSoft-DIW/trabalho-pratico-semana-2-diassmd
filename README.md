@@ -2,8 +2,8 @@
 
 ## Informações Gerais
 - Nome: Matheus Dias
-- Matricula:
+- Matricula: 877215
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print de Inspeção](public/print_curriculo.png)
